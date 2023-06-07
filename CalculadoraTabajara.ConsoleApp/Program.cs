@@ -27,6 +27,8 @@
 
                 Console.WriteLine("Digite 2 para Subtração\n");
 
+                Console.WriteLine("Digite 3 para Multiplicação\n");
+
                 Console.WriteLine("Digite S para sair\n");
 
                 Console.Write("Opção: ");
